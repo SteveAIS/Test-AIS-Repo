@@ -1,0 +1,1 @@
+git bundle create myproject.bundle --all
