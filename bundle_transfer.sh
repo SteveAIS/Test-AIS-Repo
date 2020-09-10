@@ -1,1 +1,1 @@
-git bundle create myproject.bundle --all
+git bundle create myproject.bundle --since=$1.days.ago
