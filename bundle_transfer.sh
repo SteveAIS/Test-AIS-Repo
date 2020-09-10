@@ -1,1 +1,1 @@
-git bundle create myproject.bundle --since=$1.days.ago
+git bundle create myproject.bundle --since=$1.days.ago master
